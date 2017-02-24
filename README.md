@@ -20,3 +20,9 @@
   │       │   ├── bsd_tap_regs.vp
   │       │   └── bsd_tx_prbs_gen.svp
 ```
+
+# Change Log
+
+## 2016-02-24
+- Initial release
+- View: Verilog RTL, doc

@@ -1,8 +1,8 @@
 # Release Information
 
-IP Name       : MIPI D-PHY
-IP Version    : 0.1
-IP Top Module : bsd_dphy
+- IP Name       : MIPI D-PHY
+- IP Version    : 0.1
+- IP Top Module : bsd_dphy
 
 
 # File List
